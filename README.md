@@ -68,6 +68,9 @@ A list of companies that have paid Developer Community Writer Programs.
 - [FaunaDB](https://fauna.com/blog/write-with-fauna) - $200-$500 per piece
   > Content focused on technical education around serverless development and FaunaDB.
 
+- [GraphCMS](https://graphcms.com/write-for-graphcms) - Depends on the content and the length of the piece
+  > Content focused on technical education or tutorials with code around GraphQL, GraphCMS and different frontend working with them.
+
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece
   > Technical tutorials with code about Hasura or GraphQL.
 
